@@ -1,5 +1,5 @@
 # curvetopia24
-#Curvetopia is a project to recognize shapes from simple doodles.
+# Curvetopia is a project to recognize shapes from simple doodles.
 
 1. Identify Shapes: Train a model to recognize basic shapes.
 2. Manage Data: Keep your datasets in one place.
@@ -7,7 +7,7 @@
 4. Install Everything Easily: Use a single command to set up all the needed tools.
 5. Cloud Integration: Save and access your models on the cloud.
    
-#How to Get Started
+# How to Get Started ?
 1. Clone the Repo: Copy the project to your computer.
 2. Set Up: Create a virtual environment.
 3. Install Dependencies: Run one command to get everything you need.
