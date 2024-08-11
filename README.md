@@ -9,8 +9,8 @@ Curvetopia is a project to recognize shapes from simple doodles.
    
 How to Get Started
 
-1.Clone the Repo: Copy the project to your computer.
-2.Set Up: Create a virtual environment.
-3.Install Dependencies: Run one command to get everything you need.
-4.Organize Data: Put your datasets in the right folder.
-5.Train Your Model: Start training and testing your model.
+1. Clone the Repo: Copy the project to your computer.
+2. Set Up: Create a virtual environment.
+3. Install Dependencies: Run one command to get everything you need.
+4. Organize Data: Put your datasets in the right folder.
+5. Train Your Model: Start training and testing your model.
